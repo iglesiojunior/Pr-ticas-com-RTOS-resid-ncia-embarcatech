@@ -1,1 +1,0 @@
-# Pr-ticas-com-RTOS-resid-ncia-embarcatech
